@@ -38,7 +38,7 @@ body{
 
 .logo{
     margin-top: 5px;
-    max-width: 150px;
+    max-width: 300px;
 }
 
 .navigation ul{
@@ -140,4 +140,58 @@ body{
 
  .home-img img{
     width: 700px;
+}
+
+.cardapio{
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10%;
+}
+
+.cardapio img{
+    cursor: pointer;
+    border-radius: 30%;
+}
+
+.cardapio img:hover{
+    opacity: 0.6;
+    transition: all 0.5s;
+}
+
+.texto{
+    padding: 5%;
+    text-align: center;
+}
+
+.texto h1{
+    color: #5f3a2f;
+    font-size: 30px;
+}
+
+.texto p{
+    font-size: 20px;
+}
+
+.linha{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+.img-pequena{
+    margin-top: 100px;
+    width: 300px;
+    margin: 10px;
+}
+
+.img-grande{
+    margin-top: 100px;
+    max-width: 500px;
+    margin: 10px;
 }

@@ -1,5 +1,7 @@
 # Landing Page para uma Confeitaria
 
+Site em Desenvolvimento
+
 link: https://mariana-gs.github.io/Landing-Page-CacauPiece/
  
 ![0be83b36-28e7-49fa-9da4-2a9b1205464f](https://user-images.githubusercontent.com/81964220/187730297-c8e36bb6-a514-4feb-930b-d84d6aec89c7.jpg)
